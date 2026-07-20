@@ -186,10 +186,8 @@ python "ebrachformer scrath/ebranchformer_scratch.py"
 
 The repository contains
 
-- Training curves
 - EER plots
 - t-SNE visualizations
-- Evaluation outputs
 
 ---
 
